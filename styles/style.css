@@ -1,5 +1,5 @@
 body {
-  max-width: 50%;
+  max-width: 90%;
   margin: auto;
   align-items: center;
   justify-content: center;
@@ -21,7 +21,7 @@ body {
 }
 
 #meme {
-  max-width: 50%;
+  max-width: 30%;
   margin-top: 5%;
 }
 
